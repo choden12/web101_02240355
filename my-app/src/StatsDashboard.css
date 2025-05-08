@@ -1,0 +1,22 @@
+.stats-dashboard {
+    border-radius: 8px;
+    padding: 20px;
+    width: 430px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .stat {
+    text-align: center;
+  }
+  
+  .stat-value {
+    font-size: 30px;
+    color: #008080; 
+    font-weight: 200;
+  }
+  
+  .stat-label {
+    color: #777;
+    font-size: 20px;
+  }

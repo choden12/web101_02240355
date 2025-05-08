@@ -1,0 +1,30 @@
+.header {
+    background-color: #a09bea; 
+    padding: 1px 22px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+  }
+  
+.header h1 {
+    margin-left: 15px;
+    font-size: 45px;
+}
+  
+.header nav {
+    display: flex;
+    list-style: none;
+    font-size: 20px;
+    margin-right: 60px;
+}
+  
+.header nav a {
+    color: #ecf0f1;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+  
+.header nav a:hover {
+    color: #f39c12;
+}
